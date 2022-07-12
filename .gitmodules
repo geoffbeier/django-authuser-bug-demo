@@ -1,0 +1,3 @@
+[submodule "authuser"]
+	path = authuser
+	url = git@github.com:geoffbeier/django-authuser.git
